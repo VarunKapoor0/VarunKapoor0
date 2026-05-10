@@ -8,7 +8,7 @@ Android & XR engineer. Building at the intersection of spatial computing and AI.
 
 ### What I'm building
 
-**[AnimusGlasses](https://github.com/VarunKapoor0/AnimusGlasses)** — Animus for Meta Ray-Ban Display glasses. Point your glasses at any object, it identifies it and speaks to you in its own voice through the glasses speakers. Built on the Meta Wearables DAT SDK in one day.
+**[AnimusGlasses](https://github.com/VarunKapoor0/AnimusGlasses)** — Animus for Meta Ray-Ban Display glasses. Point your glasses at any object, it identifies it and speaks to you in its own voice through the glasses speakers. Built on the Meta Wearables DAT SDK.
 
 **[Animus](https://github.com/VarunKapoor0/Animus)** — The web version. Camera → Gemini Vision → AI personality → Groq Orpheus TTS. Multilingual, WebXR spatial markers, object debate mode. Live at [animusai.app](https://animusai.app)
 
