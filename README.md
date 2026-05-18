@@ -10,7 +10,7 @@ Android & XR engineer. Building at the intersection of spatial computing and AI.
 
 > Point your glasses at any object. It identifies it, gives it a personality, and speaks to you in its own voice — **through the glasses speakers.**
 
-Built on the **Meta Wearables Device Access Toolkit (DAT SDK v0.6.0)**. Glasses camera streams I420 YUV frames over Bluetooth → converted to JPEG → Gemini Vision identifies the object and generates a personality → Groq Orpheus TTS speaks the response → audio routed via Bluetooth A2DP back through the glasses speakers. Full pipeline. Working on hardware. Built in one day.
+Built on the **Meta Wearables Device Access Toolkit (DAT SDK v0.6.0)**. Glasses camera streams I420 YUV frames over Bluetooth → converted to JPEG → Gemini Vision identifies the object and generates a personality → Groq Orpheus TTS speaks the response → audio routed via Bluetooth A2DP back through the glasses speakers. Full pipeline. Working on hardware.
 
 **[→ View source](https://github.com/VarunKapoor0/AnimusGlasses)** &nbsp;·&nbsp; **[→ Download APK](https://varkapoor.com/AnimusGlasses.apk)** &nbsp;·&nbsp; **[→ Setup guide](https://varkapoor.com/projects/animusglasses)**
 
